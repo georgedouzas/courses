@@ -1,3 +1,0 @@
-$(function () {
-    $("#plus").html('Hi');
-})
