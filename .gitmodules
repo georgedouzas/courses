@@ -1,0 +1,3 @@
+[submodule "coursera/accelerated-computer-science-fundamentals"]
+	path = coursera/accelerated-computer-science-fundamentals
+	url = https://github.com/wadefagen/coursera.git
