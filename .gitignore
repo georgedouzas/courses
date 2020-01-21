@@ -4,3 +4,10 @@
 exercism/exercism
 notes
 syllabus
+*.o
+*.d
+.objs/
+*submission*.zip
+*starter*zip
+test
+main
