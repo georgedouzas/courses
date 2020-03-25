@@ -2,5 +2,4 @@
 Description
 ###########
 
-A collection of online courses, tutorials etc that require 
-code solutions to their assingments.
+A collection of code prototypes for various projects, competitions, courses etc.
