@@ -12,3 +12,5 @@ syllabus
 test
 main
 .venv
+.ipynb*
+node_modules
