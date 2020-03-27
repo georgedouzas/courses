@@ -1,0 +1,5 @@
+
+
+[submodule "accelerated-computer-science-fundamentals/repo"]
+	path = accelerated-computer-science-fundamentals/repo
+	url = https://github.com/wadefagen/coursera.git
