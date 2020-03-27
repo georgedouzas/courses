@@ -3,3 +3,9 @@
 [submodule "accelerated-computer-science-fundamentals/repo"]
 	path = accelerated-computer-science-fundamentals/repo
 	url = https://github.com/wadefagen/coursera.git
+[submodule "deep-reinforcement-learning/repo"]
+	path = deep-reinforcement-learning/repo
+	url = https://github.com/udacity/deep-reinforcement-learning.git
+[submodule "deep-reinforcement-learning/book-repo"]
+	path = deep-reinforcement-learning/book-repo
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
