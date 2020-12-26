@@ -14,3 +14,4 @@ main
 .venv
 .ipynb*
 node_modules
+*.key
