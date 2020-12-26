@@ -11,4 +11,4 @@ RUNNER = Runner(
 
 if __name__ == '__main__':
 
-    RUNNER.run(num_episodes=200)
+    RUNNER.run(num_episodes=300)
