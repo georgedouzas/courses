@@ -15,3 +15,4 @@ main
 .ipynb*
 node_modules
 *.key
+__pycache__
